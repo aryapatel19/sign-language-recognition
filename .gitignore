@@ -1,0 +1,10 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+SLR_final.h5
+dataset/
+sign_model_tf/
+trainingOP/
