@@ -204,18 +204,6 @@ Through this project, I gained practical experience in:
 GitHub: https://github.com/aryapatel19
 
 ---
-
-# 🙏 Acknowledgements
-
-Special thanks to:
-
-* TensorFlow Documentation
-* OpenCV Documentation
-* Kaggle ASL Alphabet Dataset
-* Python Community
-
----
-
 # 📄 License
 
 This project is intended for educational and learning purposes.
@@ -224,8 +212,3 @@ If you wish to reuse or modify the code, please provide appropriate credit to th
 
 ---
 
-# ⭐ Support
-
-If you found this project helpful, consider giving it a **⭐ Star** on GitHub.
-
-Your support is greatly appreciated!
